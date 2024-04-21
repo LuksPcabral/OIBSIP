@@ -1,0 +1,4 @@
+git clone <https://github.com/LuksPcabral/OIBSIP.git>
+git add. kaggle datasets download -d lucaspaulinocabral/avocado-prices
+git commit -m "Import analysis from Kaggle"
+git push origin master
